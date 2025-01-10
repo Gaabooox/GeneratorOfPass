@@ -4,7 +4,6 @@ from cryptography.hazmat.primitives import hashes
 from cryptography.hazmat.backends import default_backend
 import os
 import random, string, pyperclip
-import json
 
 print("Bienvenido al programa de encriptación de archivos")
 print("1. Encriptar archivo")
